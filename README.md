@@ -1,6 +1,7 @@
 # SimQUAC
 
-This repository includes the code and datasets for the paper ``SimQUAC: Let the LLMs Talk: Simulating Human-to-Human Conversational QA via Zero-Shot LLM-to-LLM Interactions``. 
+This repository includes the code and datasets for the paper <b>SimQUAC: Let the LLMs Talk: Simulating Human-to-Human Conversational QA via Zero-Shot LLM-to-LLM Interactions</b>. 
+You can download the paper <a href='https://arxiv.org/pdf/2312.02913.pdf'>here</a>. 
 
 
 ----
