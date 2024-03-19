@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/721191611.svg)](https://zenodo.org/doi/10.5281/zenodo.10838996)
+
 # SimQUAC
 
 This repository includes the code and datasets for the paper <b>SimQUAC: Let the LLMs Talk: Simulating Human-to-Human Conversational QA via Zero-Shot LLM-to-LLM Interactions</b>. 
